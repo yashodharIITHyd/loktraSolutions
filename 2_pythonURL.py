@@ -4,7 +4,7 @@ Here input is URL and run the program it will give the list of scheme,netloc,pat
 '''
 import re
 #url="www.shopping.com:12/shoes/products?CLT=SCH"
-url=raw_input()
+url=raw_input("Enter thr URL : ")
 
 class URL:
     def __init__(self,url):
