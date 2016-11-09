@@ -2,7 +2,7 @@
    ReadMe:
 Here input is URL and run the program it will give the list of scheme,netloc,path,port,query
 '''
-import re,requests
+import re
 #url="www.shopping.com:12/shoes/products?CLT=SCH"
 url=raw_input()
 
