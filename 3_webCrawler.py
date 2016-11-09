@@ -1,6 +1,5 @@
 '''
     ReadMe:
-**Before running the program please make sure that you have the bs4,requests packages
 Run the program and it will be the infinite loop
 Press 1 for Query_1 as mentioned in the question and the same thing for query 2 also.
 
